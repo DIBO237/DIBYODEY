@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DIBODEY
+- 👋 Hi, I’m @DIBYODEY
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me ? 
