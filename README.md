@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me ? 
-- Mail me us: dibyadey29@gmail.com
+- Mail me at: dibyadey29@gmail.com
 
 <!---
 DIBO237/DIBO237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
